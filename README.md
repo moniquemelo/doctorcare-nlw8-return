@@ -10,13 +10,5 @@ Esse projeto teve como objetivo criar um site que conecte usuários a serviços 
 
 **Tecnologias envolvidas:** HTMLL, CSS e Javascript
 
-*** 
-**TRILHA DISCOVERY:**
-- [X] **1º Dia:** 
-- [X] **2º Dia:** 
-- [X] **3º Dia:** 
-- [X] **4º e 5º :** 
-
-
 ***
 <center>Desenvolvido com muito entusiasmo por Monique Melo:computer:</center>
